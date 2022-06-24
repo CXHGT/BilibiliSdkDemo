@@ -8,5 +8,5 @@ BiliBili直播开放平台 Qt版本SDK
 
 dialog截图:
 
-![image](dialog截图.jpg)
+![image](https://github.com/CXHGT/BiliibiliSdkDemo/blob/main/dialog%E6%88%AA%E5%9B%BE.jpg)
 
