@@ -1,0 +1,11 @@
+<RCC>
+    <qresource prefix="/">
+        <file>image/saveCodeOn.svg</file>
+        <file>image/close.svg</file>
+        <file>image/questionMark.svg</file>
+        <file>image/BLogo.svg</file>
+        <file>image/close_on.svg</file>
+        <file>image/clear.svg</file>
+        <file>image/clear_on.svg</file>
+    </qresource>
+</RCC>
