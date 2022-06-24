@@ -8,5 +8,5 @@ BiliBili直播开放平台 Qt版本SDK
 
 dialog截图:
 
-![image](public/dialog截图.jpg)
+![image](dialog截图.jpg)
 
